@@ -23,7 +23,7 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
 
    3. Download the shell file using git clone 
 
-            git clone 
+            git clone https://github.com/Kratosgp/DWA-131-Shell-script.git
 
    4. To run the downloaded shell script
    
