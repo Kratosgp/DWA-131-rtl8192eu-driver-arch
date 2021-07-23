@@ -1,4 +1,4 @@
-# DWA-131-rtl8192eu-driver for LINUX
+# D-LINK DWA-131(rtl8192eu) driver for LINUX
 
 This is the source of DWA-131 WiFi Adapter driver, in here you can find the instructions to install this driver in your pc.
 This is just the source of the driver.
