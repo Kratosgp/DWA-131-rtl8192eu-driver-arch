@@ -1,11 +1,13 @@
 # DWA-131(rtl8192eu) driver for LINUX
 
-This is the source of DWA-131 WiFi Adapter driver, in here you can find the instructions to install this driver in your pc.
-This is just the source of the driver.
-The installation shell script can be found in another github link.
-Follow the Installation process to finish you Installtion with the shell script from another github link.
+*This repository only contains the wifi driver.*
+
+Follow the Installation, automatically driver will be installed to your pc through shell script obtained from another repository.
+
 
 This tree supports Dynamic Kernel Module Support (DKMS), a system for generating kernel modules from out-of-tree kernel sources. It can be used to install/uninstall kernel modules, and the module will be automatically rebuilt from source when the kernel is upgraded (for example using your package manager).
+
+
 
 **Installation:**
 
