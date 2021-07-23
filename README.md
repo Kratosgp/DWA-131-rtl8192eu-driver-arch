@@ -15,19 +15,19 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
 
    1. Download git using pacman 
 
-            sudo pacman -S git
-        
+    sudo pacman -S git
+           
    2. Locate to your Downloads directory 
 
-            cd Downloads/
+    cd Downloads/
 
    3. Download the shell file using git clone 
 
-            git clone https://github.com/Kratosgp/DWA-131-Shell-script.git
+    git clone https://github.com/Kratosgp/DWA-131-Shell-script.git
 
    4. To run the downloaded shell script
    
-            ./rtl8192eu.sh
+    ./rtl8192eu.sh
             
  ***Note: Your PC will REBOOT after the installation is complete***
 
@@ -36,7 +36,7 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
 
    Check that your kernel has loaded the right module:
    
-            sudo lshw -c network
+    sudo lshw -c network
             
    You should see the line `driver=8192eu`
    
