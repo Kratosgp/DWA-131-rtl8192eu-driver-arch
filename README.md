@@ -17,13 +17,13 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
    
     sudo pacman -S git
 
-   2. Locate to your Downloads directory 
+   2. Locate to your Downloads directory and download the files
 
-    cd Downloads/
+    cd Downloads/ && git clone https://github.com/Kratosgp/DWA-131-rtl8192eu-driver-arch.git
     
-   3. Download the files from github using 
+   3. Locate to the File directory 
    
-    git clone 
+    cd DWA-131-rtl8192eu-driver-arch/
 
    4. Grant Permissions for execution of the shell script
 
