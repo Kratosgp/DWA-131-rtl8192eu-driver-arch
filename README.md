@@ -44,8 +44,7 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
    
  **Uninstall:**
    
-   If you wish to uninstall at a later point,
-   
+
    If you wish to uninstall the driver at a later point, use 
    
    `sudo dkms uninstall rtl8192eu/1.0`
