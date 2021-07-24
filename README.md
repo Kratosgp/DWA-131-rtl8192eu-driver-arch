@@ -20,12 +20,16 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
    2. Locate to your Downloads directory 
 
     cd Downloads/
+    
+   3. Download the gzip for the driver using
+   
+    git clone https://github.com/Kratosgp/DWA-131-driver.git
 
-   3. Grant Permissions for execution of the shell script
+   4. Grant Permissions for execution of the shell script
 
     chmod +x rtl8192eu.sh
 
-   4. To run the downloaded shell script
+   5. To run the downloaded shell script
    
     ./rtl8192eu.sh
             
