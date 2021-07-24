@@ -13,15 +13,17 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
 
 *Run the following commands in your terminal:*
 
-   1. Download the files in this repo as a zip and unzip it in your Downloads folder
+   1. Download git using pacman
+   
+    sudo pacman -S git
 
    2. Locate to your Downloads directory 
 
     cd Downloads/
     
-   3. Download the gzip for the driver using
+   3. Download the files from github using 
    
-    cd DWA-131-rtl8192eu-driver-arch-main/
+    git clone 
 
    4. Grant Permissions for execution of the shell script
 
