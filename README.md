@@ -21,15 +21,15 @@ This tree supports Dynamic Kernel Module Support (DKMS), a system for generating
 
     cd Downloads/
 
-   3. Download the shell file using git clone 
+   3. Grant Permissions for execution of the shell script
 
-    git clone https://github.com/Kratosgp/DWA-131-Shell-script.git
+    chmod +x rtl8192eu.sh
 
    4. To run the downloaded shell script
    
     ./rtl8192eu.sh
             
- ***Note: Your PC will REBOOT after the installation is complete***
+ ***Note: Your PC needs a REBOOT after the installation is complete***
 
 
 **Checking:**
