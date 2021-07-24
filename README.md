@@ -2,7 +2,7 @@
 
 *This repository only contains the wifi driver.*
 
-Follow the Installation, automatically driver will be installed to your pc through shell script obtained from another repository.
+You do **NOT** have to download any files manually just - Follow the Installation, automatically driver will be installed to your pc through shell script made by me.
 
 
 This tree supports Dynamic Kernel Module Support (DKMS), a system for generating kernel modules from out-of-tree kernel sources. It can be used to install/uninstall kernel modules, and the module will be automatically rebuilt from source when the kernel is upgraded (for example using your package manager).
