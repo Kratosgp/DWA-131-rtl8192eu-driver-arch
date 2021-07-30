@@ -1,7 +1,10 @@
 #!/bin/bash
 
-sudo pacman -S git linux-headers-generic build-essential dkms;
+sudo pacman -S git linux-headers;
+sudo pacman -S base-devel;
+sudo pacman -S dkms;
 sleep 5
+
 
 git clone https://github.com/Kratosgp/DWA-131-rtl8192eu-driver-arch.git;
 sleep 5
