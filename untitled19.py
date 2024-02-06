@@ -70,22 +70,3 @@ if start_index != -1:
     print(relevant_info)
 else:
     print("No relevant information found.")
-
-import re
-
-# The provided text
-# str = bot_response
-
-# Define the pattern to match the relevant information after "Helpful Answer:"
-pattern = r"Helpful Answer:(.*?)\n"
-
-# Use re.search to find the match
-match = re.search(pattern, str, re.DOTALL)
-
-# Extract the relevant information
-if match:
-    relevant_info = match.group(1).strip()
-    print(relevant_info)
-else:
-    print("No relevant information found.")
-
